@@ -1,0 +1,1 @@
+Pretty much just made this to practice implementing MediatR, Lumar, and GraphQL
